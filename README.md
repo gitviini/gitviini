@@ -1,5 +1,7 @@
 <h1>Olá, me chamo Vini.</h1>
 
+<hr>
+
 - 17y
 - Sou dev há um ano.
 - DevSys ⚙️
