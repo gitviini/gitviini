@@ -2,7 +2,7 @@
 
 <hr>
 
-<ul>
+<ul type='circle'>
 <li>17y
 <li>Sou dev há um ano.
 <li>DevSys ⚙️
