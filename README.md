@@ -1,3 +1,13 @@
+<style>
+img{
+	position: relative;
+	display: block;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+</style>
+
 # Olá, me chamo Vini.
 
 - Sou dev a 1 ano.
