@@ -2,9 +2,11 @@
 
 <hr>
 
-- 17y
-- Sou dev há um ano.
-- DevSys ⚙️
+<ul>
+<li>17y
+<li>Sou dev há um ano.
+<li>DevSys ⚙️
+</ul>
 
 <hr>
 
