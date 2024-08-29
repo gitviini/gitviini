@@ -2,7 +2,7 @@
 
 <ul type='circle'>
 <li>17y
-<li>Sou dev há um ano.
+<li>Web🖥, Mobile📱 and Games🕹.
 <li>DevSys ⚙️
 </ul>
 
