@@ -1,10 +1,8 @@
-<h1>Olá, me chamo Vini.</h1>
+## Olá, me chamo Vini 🍀.
 
-<ul type='circle'>
-<li>18y
-<li>Web🖥, Mobile📱 and Games🕹.
-<li>DevSys ⚙️
-</ul>
+* 19y
+* Web 💻, Mobile 📱 and Games 🕹️.
+* DevSys ⚙️
 
 <hr>
 
