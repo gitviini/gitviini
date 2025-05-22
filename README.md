@@ -1,8 +1,6 @@
 ## Olá, me chamo Vini 🍀.
 
-* 19y
-* Web 💻, Mobile 📱 and Games 🕹️.
-* DevSys ⚙️
+<img align="center" src="about_me.png" />
 
 <hr>
 
