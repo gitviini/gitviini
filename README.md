@@ -11,8 +11,12 @@ DevSys ⚙️<br />
 <hr/>
 
 ## Social Networks
-<img width='50' src="linkedin.png" />  <a href='https://www.linkedin.com/in/vinicius-gabriel-639869297/' target='_blank'><strong></strong></a>
-<img width='50' src="codepen.png" />  <a href='https://codepen.io/gitviini' target='_blank'><strong></strong></a>
+<a href='https://www.linkedin.com/in/vinicius-gabriel-639869297/' target='_blank'>
+<img width='50' src="linkedin.png" />  
+</a>
+<a href='https://codepen.io/gitviini' target='_blank'>
+<img width='50' src="codepen.png" />
+</a>
 
 
 <table>
